@@ -1,0 +1,43 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOWQhM6rzGcUWwU3FHC7LvY"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "-xDIZ_j55XBn"
+      },
+      "outputs": [],
+      "source": [
+        "Savings Account Charges:\n",
+        "Customers maintaining less than ₹10,000 average monthly balance may incur a ₹500 non-maintenance charge.\n",
+        "\n",
+        "International Card Usage:\n",
+        "Debit and credit cards must have international transactions enabled before overseas use.\n",
+        "\n",
+        "Home Loan Interest:\n",
+        "Home loan rates start from 8.25% annually depending on applicant eligibility.\n",
+        "\n",
+        "Fraud Reporting:\n",
+        "Customers suspecting fraud should immediately block cards and contact the fraud helpline.\n",
+        "\n",
+        "Credit Card Rewards:\n",
+        "Travel credit cards offer airline miles, lounge access, and forex benefits."
+      ]
+    }
+  ]
+}
