@@ -38,3 +38,8 @@ Safety Requirements:
 •	Policy
   o	Input: Why was I charged ₹500?
   o	Expected: Calls retrieval tool
+
+
+# Run:
+docker build -t banking-agent .
+docker run -p 8000:8000 banking-agent
