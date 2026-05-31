@@ -1,0 +1,89 @@
+Question: What is a savings account?
+Answer: A savings account is a deposit account offered by banks that allows customers to safely store money while earning interest. It provides easy access to funds through withdrawals, ATM transactions, online banking, and UPI payments.
+
+Question: What is a current account?
+Answer: A current account is designed for businesses, traders, and professionals who perform frequent transactions. It typically offers higher transaction limits and may not provide interest on deposited funds.
+
+Question: What is KYC?
+Answer: KYC stands for Know Your Customer. It is a mandatory process used by banks to verify the identity and address of customers using documents such as Aadhaar, PAN card, passport, or driving license.
+
+Question: Why is KYC verification important?
+Answer: KYC helps banks prevent fraud, money laundering, identity theft, and unauthorized financial activities while ensuring compliance with regulatory requirements.
+
+Question: Shall I share my OTP with anyone?
+Answer: No. Customers should never share OTPs, PINs, passwords, CVV numbers, or internet banking credentials with anyone, including people claiming to be bank employees.
+
+Question: What should I do if I shared my OTP?
+Answer: Immediately contact your bank's customer support, block affected services if possible, change your passwords, and monitor your account for unauthorized transactions.
+
+Question: What should I do if I notice an unauthorized transaction?
+Answer: Immediately report the transaction to your bank's fraud department, block your card or account if necessary, and file a complaint through the bank's official channels.
+
+Question: What is a fixed deposit?
+Answer: A fixed deposit (FD) is an investment product where money is deposited with a bank for a fixed tenure at a predetermined interest rate. The funds are generally withdrawn upon maturity.
+
+Question: What is a recurring deposit?
+Answer: A recurring deposit (RD) allows customers to deposit a fixed amount every month for a specified period and earn interest on the accumulated savings.
+
+Question: How is EMI calculated?
+Answer: EMI (Equated Monthly Installment) depends on the loan principal amount, annual interest rate, and loan tenure. EMI includes both principal repayment and interest payments.
+
+Question: What factors affect home loan EMI?
+Answer: Home loan EMI is influenced by the loan amount, interest rate, repayment tenure, and any applicable processing or administrative charges.
+
+Question: What is a credit score?
+Answer: A credit score is a numerical representation of a person's creditworthiness based on repayment history, credit utilization, loan accounts, and financial behavior.
+
+Question: What is considered a good credit score?
+Answer: Credit scores above 750 are generally considered strong and may improve the chances of loan approval and favorable interest rates.
+
+Question: What affects my credit score?
+Answer: Late payments, loan defaults, high credit utilization, multiple loan applications, and missed EMIs can negatively affect credit scores.
+
+Question: What is the minimum due amount on a credit card?
+Answer: The minimum due amount is the minimum payment required to keep the credit card account in good standing. Paying only the minimum due may result in interest charges on the remaining balance.
+
+Question: What happens if I miss a credit card payment?
+Answer: Missing a payment may result in late payment fees, additional interest charges, and a negative impact on your credit score.
+
+Question: What is a debit card?
+Answer: A debit card allows customers to make purchases and withdraw cash directly from their bank account balance.
+
+Question: What is a credit card?
+Answer: A credit card allows customers to borrow funds from the card issuer up to a specified credit limit and repay the amount later according to the billing cycle.
+
+Question: What is a credit card billing cycle?
+Answer: A credit card billing cycle is the period during which transactions are recorded before a statement is generated. Billing cycles are typically monthly.
+
+Question: How can I block a lost debit or credit card?
+Answer: Customers should immediately contact their bank, use the bank's mobile application, internet banking portal, or customer support helpline to block the card.
+
+Question: What is internet banking?
+Answer: Internet banking allows customers to access banking services online, including fund transfers, account statements, bill payments, and account management.
+
+Question: What is mobile banking?
+Answer: Mobile banking enables customers to perform banking activities through a smartphone application provided by the bank.
+
+Question: What is UPI?
+Answer: UPI (Unified Payments Interface) is a real-time payment system that allows instant money transfers between bank accounts using mobile devices.
+
+Question: Is UPI safe?
+Answer: UPI is generally secure when used responsibly. Customers should verify recipient details and never share UPI PINs with anyone.
+
+Question: What is a bank statement?
+Answer: A bank statement is a record of account transactions, balances, deposits, withdrawals, and charges during a specified period.
+
+Question: What is loan eligibility?
+Answer: Loan eligibility is determined by factors such as income, employment status, repayment capacity, credit score, existing debt obligations, and age.
+
+Question: What documents are required for a loan application?
+Answer: Banks commonly require identity proof, address proof, income documents, bank statements, PAN card, and other supporting documents depending on the loan type.
+
+Question: What is net banking password security?
+Answer: Customers should use strong passwords, enable two-factor authentication where available, and never share credentials with others.
+
+Question: How can I update my registered mobile number?
+Answer: Customers can update their mobile number through bank branches, internet banking, mobile banking applications, or official customer support channels, subject to verification requirements.
+
+Question: What should I do if my account is hacked?
+Answer: Immediately contact the bank, change passwords, block affected services, review recent transactions, and follow the bank's fraud reporting procedures.
