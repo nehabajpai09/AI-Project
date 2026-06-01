@@ -176,15 +176,6 @@ Ensure:
 
 ---
 
-## Example Sanitized Log
-
-```json
-{
-  "query": "Calculate EMI for [REDACTED_ACCOUNT]",
-  "response": "Estimated monthly EMI: ₹10134.57"
-}
-```
-
 ---
 
 # 11. Failure Analysis
@@ -226,16 +217,3 @@ Planned upgrades include:
 * Real banking document ingestion
 
 ---
-
-# 14. Final Assessment
-
-The AI Banking Support & Advisory Agent successfully demonstrates:
-
-* safe non-transactional banking assistance,
-* tool-based AI workflows,
-* retrieval-grounded responses,
-* fraud escalation,
-* PII-safe logging,
-* and evaluation-driven development.
-
-The project satisfies the requirements of a realistic Applied AI banking support system while prioritizing safety, explainability, and operational governance.

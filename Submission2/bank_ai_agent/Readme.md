@@ -104,7 +104,7 @@ bank_ai_agent/
 ## Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/nehabajpai09/AI-Project/tree/AgenticAI-Proj/Submission2/bank_ai_agent
 cd bank_ai_agent
 ```
 
@@ -218,7 +218,6 @@ Evaluation includes:
 * hallucination prevention,
 * and governance checks.
 
-See:
 
 ```text
 evaluation/evaluation_report.md
