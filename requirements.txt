@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-openai
-chromadb
-sentence-transformers
-python-dotenv
